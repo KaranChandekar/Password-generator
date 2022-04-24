@@ -50,3 +50,7 @@ h2 {
   overflow-y: scroll;
   height: 100%;
 }
+
+#result::-webkit-scrollbar {
+  width: 1rem;
+}
