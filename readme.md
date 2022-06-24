@@ -30,3 +30,7 @@ Password generator is a cool looking webapp project which creates a random passw
 - HTML
 - CSS
 - Javascript
+
+## 🚀 About Me
+
+I'm a self-tought front end developer...
