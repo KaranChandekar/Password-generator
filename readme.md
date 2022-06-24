@@ -24,3 +24,9 @@ Password generator is a cool looking webapp project which creates a random passw
 | Container Background | ![#23235b](https://via.placeholder.com/10/23235b?text=+) #23235b |
 | Btn Background       | ![#3b3b98](https://via.placeholder.com/10/3b3b98?text=+) #3b3b98 |
 | Btn text color       | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff          |
+
+## Languages
+
+- HTML
+- CSS
+- Javascript
