@@ -34,3 +34,11 @@ Password generator is a cool looking webapp project which creates a random passw
 ## 🚀 About Me
 
 I'm a self-tought front end developer...
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+I welcome all contributions. You can submit any ideas as pull requests or as GitHub issues. If you'd like to improve code, have a good time! :)
