@@ -1,0 +1,3 @@
+# Password Generator
+
+Password generator is a cool looking webapp project which creates a random password. In this webapp we have to simply enter the length of letters which we want. This webapp also contains the features like include uppercase, lowercase, numbers or symbols if we want to add these in a password. In this app there is also an option to copy the generator password to clipboard. This project is inspired by Brad Traversy's 50projects50days challenge!
