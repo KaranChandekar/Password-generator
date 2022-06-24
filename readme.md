@@ -11,3 +11,7 @@ Password generator is a cool looking webapp project which creates a random passw
 ## Authors
 
 - [@KaranChandekar](https://www.github.com/KaranChandekar)
+
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
